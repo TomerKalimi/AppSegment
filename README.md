@@ -1,4 +1,4 @@
-# Application Segmentation 
+# Application Segmentation Using R
 Create a Android mobile App segmentation using text analysis.
 
 ## Generl Code Info
